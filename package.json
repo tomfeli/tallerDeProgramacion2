@@ -1,0 +1,19 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "Taller de Programacion 2 ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomfeli/tallerDeProgramacion2.git"
+  },
+  "author": "tomfeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomfeli/tallerDeProgramacion2/issues"
+  },
+  "homepage": "https://github.com/tomfeli/tallerDeProgramacion2#readme"
+}
